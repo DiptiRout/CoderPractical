@@ -1,0 +1,6 @@
+framework module Pods_DecoderPracticalUITests {
+  umbrella header "Pods-DecoderPracticalUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
